@@ -1,5 +1,5 @@
 
-# Selçuk Bütökin
+# Selçuk Butekin
 
 🔍 **Procurement & Digitalization Specialist**  
 📍 Turkey | 💼 Open to new opportunities  
