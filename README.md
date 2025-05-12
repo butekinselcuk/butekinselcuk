@@ -3,7 +3,7 @@
 
 🔍 **Procurement & Digitalization Specialist**  
 📍 Turkey | 💼 Open to new opportunities  
-📧 Contact: [LinkedIn Profilim](https://www.linkedin.com/in/selçuk-butekin-69944b63/)
+📧 Contact: [LinkedIn Profilim](https://www.linkedin.com/in/selcukbutekin/)
 
 ---
 
