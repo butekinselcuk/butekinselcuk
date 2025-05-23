@@ -28,7 +28,7 @@ Aynı zamanda Excel üzerinde makrosuz otomasyonlar, Python ile veri analizi ve 
 
 ## 🚀 Projelerimden Öne Çıkanlar
 
-- **worldpurnet Web Uygulaması:** Mevcut bir PHP ve MySQL tabanlı web platformunun yerel kurulumu, veritabanı entegrasyonu ve temel hata ayıklama (PHP sözdizimi hataları, veritabanı sorgu sorunları, frontend script çakışmaları) süreçlerini içeren proje.
+- **worldpurnet (QHUBI) Web Uygulaması:** Satın alma süreçlerini dijitalleştiren ve yöneten uluslararası platform. Teklif toplama, karşılaştırma, onay yönetimi, tedarikçi bulma ve detaylı raporlama imkanları sunarak operasyonel verimliliği artırmayı ve şeffaflığı sağlamayı hedefler.
 
 - **Teklif Yönetim Sistemi (TYS):**  
   Talep girişi → Onaylar → Fiyat karşılaştırma → SAP entegrasyonu  
