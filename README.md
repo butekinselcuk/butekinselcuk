@@ -1,4 +1,3 @@
-
 # Selçuk Butekin
 
 🔍 **Procurement & Digitalization Specialist**  
@@ -29,6 +28,8 @@ Aynı zamanda Excel üzerinde makrosuz otomasyonlar, Python ile veri analizi ve 
 
 ## 🚀 Projelerimden Öne Çıkanlar
 
+- **worldpurnet Web Uygulaması:** Mevcut bir PHP ve MySQL tabanlı web platformunun yerel kurulumu, veritabanı entegrasyonu ve temel hata ayıklama (PHP sözdizimi hataları, veritabanı sorgu sorunları, frontend script çakışmaları) süreçlerini içeren proje.
+
 - **Teklif Yönetim Sistemi (TYS):**  
   Talep girişi → Onaylar → Fiyat karşılaştırma → SAP entegrasyonu  
   Power Apps + SharePoint + Excel entegrasyonu ile yönetilen modüler yapı.
@@ -43,10 +44,10 @@ Aynı zamanda Excel üzerinde makrosuz otomasyonlar, Python ile veri analizi ve 
 
 ## 📬 İletişim
 
-📎 LinkedIn: [linkedin.com/in/selcukbutekin](https://www.linkedin.com/in/selçuk-butekin-69944b63/)  
+📎 LinkedIn: [linkedin.com/in/selcukbutekin](https://www.linkedin.com/in/selcukbutekin/)  
 📝 İş birliği teklifleri, öneriler ve geri bildirimleriniz için mesaj atabilirsiniz.
 
 ---
 
 > 💼 Yeni projelere ve kariyer fırsatlarına açığım.  
-> GitHub sayfamda yer alan örnek projeleri inceleyebilir, bağlantı kurabilirsiniz.
+> GitHub sayfamda yer alan örnek projeleri inceleyebilir, bağlantı kurabilirsiniz. 
