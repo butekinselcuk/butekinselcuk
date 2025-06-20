@@ -5,49 +5,60 @@
 📧 Contact: [LinkedIn Profilim](https://www.linkedin.com/in/selcukbutekin/)
 
 ---
+### 💡 Hakkımda
 
 Merhaba, ben Selçuk.  
-2012–2025 yılları arasında kurumsal yapılar içerisinde **Satınalma Uzmanı** olarak görev aldım. Özellikle son yıllarda, satınalma süreçlerinin **dijital dönüşümü** üzerine yoğunlaştım.
 
-Microsoft Power Platform (Power Apps, Power Automate, SharePoint) kullanarak uçtan uca çalışan **teklif toplama**, **karşılaştırma**, **onay yönetimi**, **SAP entegrasyonu** ve **raporlama sistemleri** geliştirdim.
+13+ yıllık satınalma tecrübemi, süreçleri akıllı ve verimli hale getirme tutkumla birleştiriyorum. Kariyerim boyunca manuel iş akışlarını, **Microsoft Power Platform** ve **Python (Flask)** gibi modern araçlarla tamamen otomatize edilmiş dijital sistemlere dönüştürdüm. 
 
-Aynı zamanda Excel üzerinde makrosuz otomasyonlar, Python ile veri analizi ve Flask tabanlı uygulamalar oluşturarak, süreçleri hem hızlandıran hem de izlenebilir hale getiren çözümler sundum.
+Amacım, karmaşık satınalma ve tedarik zinciri operasyonlarını basitleştiren, veri odaklı ve kullanıcı dostu çözümler geliştirmektir.
 
 ---
 
-## 💡 Uzmanlık Alanlarım
+### 🛠️ Yeteneklerim ve Araç Setim
 
-- Satınalma Süreçleri & Tedarik Zinciri Yönetimi  
-- Power Platform (Power Apps, Power Automate, SharePoint)  
-- Excel (Power Query, Dashboard, Form Otomasyonları)  
-- Python & Flask (Temel seviye iş süreçleri)  
-- Power BI ile Görsel Raporlama  
-- Süreç Dijitalleştirme ve Otomasyon Projeleri
+| Kategori | Teknolojiler ve Yetenekler |
+
+| **Süreç Otomasyonu** | `Power Automate` `n8n` `İş Akışı Tasarımı` `Dijital Dönüşüm` |
+
+| **Uygulama Geliştirme** | `Power Apps` `Python (Flask)` `SharePoint Lists` `SQLite` |
+
+| **Veri & Analiz** | `Excel (Power Query)` `Power BI` `Veri Görselleştirme` `Raporlama` |
+
+| **Alan Uzmanlığı** | `Stratejik Satınalma` `Tedarik Zinciri Yönetimi` `Maliyet Analizi` `Proje Yönetimi` |
 
 ---
 
 ## 🚀 Projelerimden Öne Çıkanlar
 
-- **worldpurnet (QHUBI) Web Uygulaması:** Satın alma süreçlerini dijitalleştiren ve yöneten uluslararası platform. Teklif toplama, karşılaştırma, onay yönetimi, tedarikçi bulma ve detaylı raporlama imkanları sunarak operasyonel verimliliği artırmayı ve şeffaflığı sağlamayı hedefler.
+#### 🌍 worldpurnet (QHUBI) - Uluslararası Satınalma Platformu
 
-- **Teklif Yönetim Sistemi (TYS):**  
-  Talep girişi → Onaylar → Fiyat karşılaştırma → SAP entegrasyonu  
-  Power Apps + SharePoint + Excel entegrasyonu ile yönetilen modüler yapı.
+- **Açıklama:** Tedarik zinciri süreçlerini dijitalleştiren ve yöneten uluslararası bir web uygulaması. Teklif toplama, karşılaştırma, onay yönetimi ve detaylı raporlama gibi modüller içerir.
+  
+- **Teknolojiler:** `html` `php` `SQL`
+  
 
-- **Power Automate ile Onay Süreci Yönetimi:**  
-  SharePoint listeleri üzerinden dinamik e-posta ve durum güncellemeleri.
+#### 📄 Teklif Yönetim Sistemi (TYS) - Power Platform
 
-- **Flask + SQLite ile E-Satınalma Prototipi:**  
-  Kimlik doğrulamalı giriş sistemi, teklif toplama ekranı, admin paneli.
+- **Açıklama:** Uçtan uca bir satınalma teklif sürecini yöneten, Power Platform tabanlı modüler bir sistem.
+  
+- **Teknolojiler:** `Power Apps` `Power Automate` `SharePoint` `Excel`
+
+
+#### 🐍 E-Satınalma Prototipi - Python & Flask
+
+- **Açıklama:** Kimlik doğrulamalı giriş, teklif toplama ekranı ve admin paneli içeren temel bir e-satınalma web uygulaması prototipi.
+  
+- **Teknolojiler:** `Python` `Flask` `SQLite` `HTML/CSS`
+
 
 ---
 
-## 📬 İletişim
+### 📫 İletişim & İş Birliği
+
+Yeni projeler ve kariyer fırsatları için her zaman açığım. Gelin, süreçleri nasıl daha iyi hale getirebileceğimizi konuşalım!
 
 📎 LinkedIn: [linkedin.com/in/selcukbutekin](https://www.linkedin.com/in/selcukbutekin/)  
+
 📝 İş birliği teklifleri, öneriler ve geri bildirimleriniz için mesaj atabilirsiniz.
 
----
-
-> 💼 Yeni projelere ve kariyer fırsatlarına açığım.  
-> GitHub sayfamda yer alan örnek projeleri inceleyebilir, bağlantı kurabilirsiniz. 
